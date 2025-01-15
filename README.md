@@ -24,7 +24,7 @@ yarn add dotenv
 
 ---
 
-### **2. Require dotenv in Your File**
+### **2. Require dotenv in Your File** 
 Add the following line at the top of your main file to load the environment variables:
 ```javascript
 require('dotenv').config();
